@@ -174,7 +174,4 @@ handleSubmit(event) {
 
 
 ## Reference: These are the resources that we have referred while making this Application 
-##### https://www.youtube.com/watch?v=DLX62G4lc44, https://imgflip.com/memegenerator, https://css-tricks.com/creating-your-own-meme-generator/ 
-
-
-## Github Url : https://github.com/Compute-2-Compete-SVCE/Classy-Devs
+#### https://www.youtube.com/watch?v=DLX62G4lc44, https://imgflip.com/memegenerator, https://css-tricks.com/creating-your-own-meme-generator/ 
